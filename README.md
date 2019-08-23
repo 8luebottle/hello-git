@@ -1,4 +1,8 @@
 # hello-git
 for git practice
 
-WECODE 박지훈
+WeCODE 박지훈
+
+WeCODE 신이레
+
+
